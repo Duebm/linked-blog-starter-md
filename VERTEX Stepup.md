@@ -8,3 +8,6 @@ Linear actuator:
 - Charlie will put me in contact with someone who can explain how the joints on ARMLESS use linear actuators and triangles. 
 
 
+![[Pasted image 20241219171124.png]]
+
+- Can I get the angles I want?
