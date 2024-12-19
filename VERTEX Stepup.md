@@ -6,3 +6,5 @@ Motorization:
 Linear actuator:
 
 - Charlie will put me in contact with someone who can explain how the joints on ARMLESS use linear actuators and triangles. 
+
+
