@@ -1,2 +1,2 @@
-As used in [[ARMLESS]] and (hopefully) [[SCAM]]
+As used in [[ARMLISS]] and (hopefully) [[SCAM]]
 
