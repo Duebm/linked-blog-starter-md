@@ -6,7 +6,7 @@ Todo list:
 - [ ] CAD 
 	- [ ] Shell
 		- [x] Shrink to accommodate size for motor housings
-		- [ ] Motor 
+		- [ ] Motor casing
 		- [ ] Motor attachment point and ultrasonic holes
 	- [ ] Motor casing for waterproofing
 	- [ ] Gearbox
