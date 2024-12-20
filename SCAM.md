@@ -5,8 +5,9 @@
 Todo list:
 - [ ] CAD 
 	- [ ] Shell
-		- [ ] Shrink to accommodate size for motor housings
-		- [ ] Motor and ultrasonic holes
+		- [x] Shrink to accommodate size for motor housings
+		- [ ] Motor 
+		- [ ] Motor attachment point and ultrasonic holes
 	- [ ] Motor casing for waterproofing
 	- [ ] Gearbox
 	- [ ] Figure out if flim canisters are right size
