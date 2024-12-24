@@ -18,3 +18,7 @@ Todo list:
 	- [ ] Need a breadboard?
 - [ ] Code
 
+Dimensions:
+
+Motor: 
+~1.4 in OD
