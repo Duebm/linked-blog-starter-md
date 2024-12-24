@@ -1,6 +1,10 @@
 10 inches shrunk by 2 inches on both side for motor housing means we have a 6 in craft, not viable. 
 
 3. Use the flim canisters, hot glue the end. Have a connection point to them, but SCAM can still be close to 10x10
+Timeline: 
+
+
+Finished by 0
 
 Todo list:
 - [ ] CAD 
@@ -22,3 +26,4 @@ Dimensions:
 
 Motor: 
 ~1.46 in OD
+
