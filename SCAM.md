@@ -21,4 +21,4 @@ Todo list:
 Dimensions:
 
 Motor: 
-~1.4 in OD
+~1.46 in OD
