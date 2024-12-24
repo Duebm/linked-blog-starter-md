@@ -1,10 +1,7 @@
-10 inches shrunk by 2 inches on both side for motor housing means we have a 6 in craft, not viable. 
-
-3. Use the flim canisters, hot glue the end. Have a connection point to them, but SCAM can still be close to 10x10
 Timeline: 
-	Week of 30-4: Cad/ testing. 	
-	Week of 5-11: Print (hopefully) final versions. Code 
-	Week of 12-18
+	Week of 30-4: Cad/ test printing pieces 	
+	Week of 5-11: Print (hopefully) final versions. Get motors running, basics of code going
+	Week of 12-18: Assembly and coding week
 	Week of 19-24: Integration 
 	Finished by 01/24
 
@@ -25,7 +22,6 @@ Todo list:
 - [ ] Code
 
 Dimensions:
-
-Motor: 
-~1.46 in OD
+	Motor: 
+		~1.46 in OD
 
