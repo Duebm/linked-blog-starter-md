@@ -2,9 +2,11 @@
 
 3. Use the flim canisters, hot glue the end. Have a connection point to them, but SCAM can still be close to 10x10
 Timeline: 
-
-
-Finished by 0
+	Week of 30-4: Cad/ testing. 	
+	Week of 5-11: Print (hopefully) final versions. Code 
+	Week of 12-18
+	Week of 19-24: Integration 
+	Finished by 01/24
 
 Todo list:
 - [ ] CAD 
