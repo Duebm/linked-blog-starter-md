@@ -7,20 +7,31 @@ Timeline:
 
 Todo list:
 - [ ] CAD 
-	- [ ] Shell
-		- [x] Shrink to accommodate size for motor housings
 	- [ ] Motor casing
 		- [ ] Motor attachment point 
 	- [ ] Sensors
 	- [ ] 
-	- [ ] Motor casing for waterproofing
-	- [ ] Gearbox
 
 - [ ] Electronics
 	- [ ] Figure out how to connect wiring (connectors?)
 	- [ ] Wifi mod
-	- [ ] Need a breadboard?
+	- [ ] Need:
+		- [ ] Breadboard?
+		- [ ] Wire
+		- [ ] Crimps
+		- [ ] Elec. tape
+		- [ ] H bridges
 - [ ] Code
+
+I need:
+- Wire
+- Crimps/ sauder 
+- A 3rd H bridge 
+- To figure out if I use TT motors
+- To power a motor
+- Electrical Tape
+- 
+
 
 Dimensions:
 	Motor: 
