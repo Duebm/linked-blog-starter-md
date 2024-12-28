@@ -9,12 +9,13 @@ Todo list:
 - [ ] CAD 
 	- [ ] Shell
 		- [x] Shrink to accommodate size for motor housings
-		- [ ] Motor casing
-		- [ ] Motor attachment point and ultrasonic holes
+	- [ ] Motor casing
+		- [ ] Motor attachment point 
+	- [ ] Sensors
+	- [ ] 
 	- [ ] Motor casing for waterproofing
 	- [ ] Gearbox
-	- [ ] Figure out if flim canisters are right size
-		- [ ] Buy them and hotglue
+
 - [ ] Electronics
 	- [ ] Figure out how to connect wiring (connectors?)
 	- [ ] Wifi mod
