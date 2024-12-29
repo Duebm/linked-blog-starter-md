@@ -17,9 +17,8 @@ Todo list:
 	- [ ] Wifi mod
 	- [ ] Need:
 		- [ ] Breadboard?
-		- [ ] Wire
-		- [ ] Crimps
-		- [ ] Elec. tape
+		- [x] Wire
+		- [x] Elec. tape
 		- [ ] H bridges
 - [ ] Code
 
