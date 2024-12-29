@@ -13,7 +13,6 @@ Todo list:
 	- [ ] 
 
 - [ ] Electronics
-	- [ ] Figure out how to connect wiring (connectors?)
 	- [ ] Wifi mod
 	- [ ] Need:
 		- [ ] Breadboard?
@@ -21,7 +20,6 @@ Todo list:
 - [ ] Code
 
 I need:
-- Wire
 - To figure out if I use TT motors
 - To power a motor
 - Electrical Tape
