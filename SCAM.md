@@ -10,7 +10,7 @@ Todo list:
 	- [ ] Motor casing
 		- [ ] Motor attachment point 
 	- [ ] Sensors
-	- [ ] 
+
 
 - [ ] Electronics
 	- [ ] Figure out how to connect wiring (connectors?)
