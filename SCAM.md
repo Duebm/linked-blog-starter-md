@@ -17,15 +17,11 @@ Todo list:
 	- [ ] Wifi mod
 	- [ ] Need:
 		- [ ] Breadboard?
-		- [x] Wire
-		- [x] Elec. tape
 		- [ ] H bridges
 - [ ] Code
 
 I need:
 - Wire
-- Crimps/ sauder 
-- A 3rd H bridge 
 - To figure out if I use TT motors
 - To power a motor
 - Electrical Tape
