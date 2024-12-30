@@ -9,7 +9,7 @@ Timeline:
 
 Todo list:
 - [ ] CAD 
-	- [ ] Motor casing
+	- [x] Motor casing
 		- [ ] Motor attachment point 
 	- [ ] Sensors
 
