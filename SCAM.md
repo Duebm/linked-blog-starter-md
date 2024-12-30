@@ -11,6 +11,7 @@ Todo list:
 - [ ] CAD 
 	- [x] Motor casing
 		- [ ] Motor attachment point 
+	- [ ] O ring attachment
 	- [ ] Sensors
 
 
