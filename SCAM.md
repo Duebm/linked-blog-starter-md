@@ -16,8 +16,6 @@ Todo list:
 	- [ ] Test motor 
 
 
-
-
 - [ ] Electronics
 	- [ ] Wifi mod
 	- [ ] Need:
@@ -29,10 +27,4 @@ I need:
 - To figure out if I use TT motors
 - To power a motor
 - Electrical Tape
-- 
-
-
-Dimensions:
-	Motor: 
-		~1.46 in OD
 
