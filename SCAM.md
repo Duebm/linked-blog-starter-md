@@ -10,10 +10,10 @@ Timeline:
 
 Todo list:
 - [ ] CAD 
-	- [x] Motor casing
-		- [ ] Motor attachment point 
-	- [ ] O ring attachment
-	- [ ] Sensors
+	- [ ] Propeller Casing
+	- [ ] Inside/ elec casing
+	- [ ] Heat set inserts holes
+
 
 
 - [ ] Electronics
