@@ -17,14 +17,11 @@ Todo list:
 
 
 - [ ] Electronics
-	- [ ] Wifi mod
 	- [ ] Need:
 		- [ ] Breadboard?
 		- [ ] H bridges
+
 - [ ] Code
 
 I need:
-- To figure out if I use TT motors
-- To power a motor
-- Electrical Tape
 
