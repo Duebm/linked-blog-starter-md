@@ -13,6 +13,8 @@ Todo list:
 	- [ ] Propeller Casing
 	- [ ] Inside/ elec casing
 	- [ ] Heat set inserts holes
+	- [ ] Test motor 
+
 
 
 
