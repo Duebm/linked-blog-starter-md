@@ -14,6 +14,7 @@ Todo list:
 	- [ ] Inside/ elec casing
 	- [ ] Heat set inserts holes
 	- [ ] Test motor 
+	- [ ] offset for differnt motors
 
 
 - [ ] Electronics
