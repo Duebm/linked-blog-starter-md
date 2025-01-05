@@ -13,8 +13,8 @@ Todo list:
 	- [ ] Adjust height for propellers
 	- [ ] Inside/ elec casing
 	- [ ] Heat set inserts holes
-	- [ ] Test motor 
-	- [ ] offset for differnt motors
+	- [x] Test motor 
+	- [ ] order new motors
 
 
 - [ ] Electronics
