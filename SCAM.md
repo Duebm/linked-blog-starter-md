@@ -14,13 +14,14 @@ Todo list:
 	- [ ] Inside/ elec casing
 	- [ ] Heat set inserts holes
 	- [x] Test motor 
-	- [ ] order new motors
+	- [ ] order elec parts
 
 
 - [ ] Electronics
 	- [ ] Need:
 		- [ ] Breadboard?
 		- [ ] H bridges
+		- [ ] motors
 
 - [ ] Code
 
