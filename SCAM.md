@@ -10,11 +10,12 @@ Timeline:
 
 Todo list:
 - [ ] CAD 
-	- [ ] Adjust height for propellers
+	- [x] Adjust height for propellers
 	- [ ] Inside/ elec casing
 	- [ ] Heat set inserts holes
 	- [x] Test motor 
 	- [ ] order elec parts
+	- [ ]  stand
 
 
 - [ ] Electronics
