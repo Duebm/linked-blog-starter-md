@@ -12,6 +12,6 @@ Motorization:
 
 
 Timeline:
-	Feb
+	Feb is making time
 	March for aberdeen
 	Later tests in 
