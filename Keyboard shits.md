@@ -1,3 +1,3 @@
-Left shift
-H
-Z
+g
+i
+del
