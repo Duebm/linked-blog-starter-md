@@ -2,7 +2,7 @@
 [[Active projects, Compiled Timelines]]
 
 Timeline: 
-	
+	 Reprint start on Thursday
 
 Leaking points:
 
