@@ -2,7 +2,8 @@
 [[Active projects, Compiled Timelines]]
 
 Timeline: 
-	 Reprint start on Thursday
+	 Reprint on Thursday
+	 have to get new heat set inserts from BPP, code is 3533 upstairs. prob in the leftmost room
 
 Leaking points:
 
