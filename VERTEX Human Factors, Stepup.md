@@ -6,7 +6,7 @@
 
 *maybe*
 3. Make motorized version
-	1. Would be good to interface with VERTEX code and electroics wise
+	1. Would be good to interface with VERTEX code and electronics wise
 	2. Could be a joint project with some other code freshman, like the one Rahul is grooming
 
 Motorization:
