@@ -1,0 +1,2 @@
+- Ordinary Differentiable Equation 
+- Linear vs. non-linear: An ODE is not linear if different 

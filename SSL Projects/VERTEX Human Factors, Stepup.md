@@ -1,5 +1,5 @@
 
-[[Active projects, Compiled Timelines]]
+[[SSL Active projects, Compiled Timelines]]
 
 1. Make a non-motorized version, welded, with holes to mount a motor and reasonable upgradability
 2. CAD a motorized version and put it in the SSL CAD database
