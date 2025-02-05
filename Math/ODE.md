@@ -1,2 +1,2 @@
 - Ordinary Differentiable Equation 
-- Linear vs. non-linear: An ODE is not linear if different 
+- Linear vs. non-linear: An ODE is not linear if different powers of derivatives are multiplying or interacting in ways other than addition or subtraction, or if there is a trig function of a y'
