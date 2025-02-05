@@ -1,4 +1,6 @@
 - Used for solving first order [[ODE]]s 
 - Multiply the ODE by M
-	- Ex: (dy/dt) (M) + (M)(yt^2)
-- M= e^int
+	- 
+	- (dy/dt) (M) + (M)(yt^2)
+- M= e^intyt2
+	- In this example
