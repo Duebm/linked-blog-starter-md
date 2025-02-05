@@ -1,6 +1,8 @@
 
 Arrays:
 x = [2 4 6 8 10]
+x(3)= 6
+	The third number in the array
 
 
 
