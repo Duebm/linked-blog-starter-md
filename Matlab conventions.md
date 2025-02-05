@@ -1,3 +1,10 @@
+
+Arrays:
+x = [2 4 6 8 10]
+
+
+
+Complex numbers: 
 Z= a + bj
 conjZ= a - bj
 
