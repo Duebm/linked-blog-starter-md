@@ -7,4 +7,8 @@
 [[Well posited]]
 
 
+[[Graphical notation]]
+
+
+
 
