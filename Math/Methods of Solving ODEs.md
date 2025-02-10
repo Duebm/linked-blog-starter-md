@@ -24,5 +24,7 @@ Used for solving first order [[ODE]]s
 	1. M(x,y)= dx (H(x,y))
 	2. N(x,y)= dy (H(x,y))
 2. Solve for H by integrating one of them
-3. ex: intrergH(x) = 
+	1. ex: integral of M(x,y)= H(x) = e^x + 2x +H(y)
+3. Then, take the derivate of that, resulting in a H'(y) 
+4. Plug in 
 
