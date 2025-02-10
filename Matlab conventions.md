@@ -10,7 +10,7 @@ Complex numbers:
 Z= a + bj
 conjZ= a - bj
 
-real (z), 
+real (z), imag (z)
 
 z(conjz)= a^2+b^2 
 
