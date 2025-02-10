@@ -7,8 +7,11 @@ Used for solving first order [[ODE]]s
 	- (dy/dt) (M) + (M)(yt^2)
 - M= e^intyt2
 	- In this example it is (yt^2) b/c that is the rest of the equation 
+
 ***
 
 **Euler's Method
 
-- Used when not separable nor 
+- Used when not separable 
+- General form for Euler's exactness test: dy/dx = M(x,y)/ N(x,y)
+- 
