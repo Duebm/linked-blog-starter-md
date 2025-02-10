@@ -10,6 +10,8 @@ Complex numbers:
 Z= a + bj
 conjZ= a - bj
 
+real (z), 
+
 z(conjz)= a^2+b^2 
 
 Eulers formula: Relates e^itheta = costheta + sinthetaj
