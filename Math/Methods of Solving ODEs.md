@@ -19,4 +19,10 @@ Used for solving first order [[ODE]]s
 - If dy (M(x,y)) = dx (N(x,y)), then is exact 
 
 **Steps: 
-1. M(x,y)= dx 
+
+1. Some H exists such that 
+	1. M(x,y)= dx (H(x,y))
+	2. N(x,y)= dy (H(x,y))
+2. Solve for H by integrating one of them
+3. ex: intrergH(x) = 
+
