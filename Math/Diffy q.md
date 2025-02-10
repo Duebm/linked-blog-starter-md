@@ -1,7 +1,7 @@
 [[ODE]]
 
 
-[[Integrating Factor]]
+[[Methods of Solving ODEs]]
 
 
 [[Well posited]]
