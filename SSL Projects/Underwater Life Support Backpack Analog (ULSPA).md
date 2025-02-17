@@ -5,9 +5,10 @@ Parameters:
 Use old backpack
 PVC with connectors on, then 
 
+- [ ] finish PVC sides
 - [ ] have locks for the PVC
 - [ ] drill holes through to bolt onto system
-- [ ] Have to lock the molly connector into place, cannot have weights moving around 
+- [ ] design mount???? for molly
 - [ ] Design holder for weights that connect onto pvc
 
 
