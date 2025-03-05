@@ -13,5 +13,11 @@ Potential projects:
 
 TerpRaptor- SSL Cubesat, 7 grads working on it rn
 	Potential for future funding based off how contracts go
+	https://rvishnoi.com/pages/academic-projects/terp-raptor/terp-raptor.html
+	COOL
 
 TRAVELS
+
+Biobot Human factors
+
+SCAM
