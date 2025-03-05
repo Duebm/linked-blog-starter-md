@@ -8,3 +8,10 @@
 ![[VERTEX Human Factors, Stepup#^a7d775]]
 
 Looking for a 3dp filament dehydrator  
+
+Potential projects:
+
+TerpRaptor- SSL Cubesat, 7 grads working on it rn
+	Potential for future funding based off how contracts go
+
+TRAVELS
