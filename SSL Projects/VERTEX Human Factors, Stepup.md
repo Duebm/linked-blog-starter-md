@@ -3,6 +3,9 @@
 
 1. Make a non-motorized version, welded, with holes to mount a motor and reasonable upgradability
 2. CAD a motorized version and put it in the SSL CAD database
+https://sendcutsend.com/guidelines/bending/
+
+
 
 *maybe*
 3. Make motorized version
