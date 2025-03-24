@@ -16,6 +16,9 @@ TerpRaptor- SSL Cubesat, 7 grads working on it rn
 	https://rvishnoi.com/pages/academic-projects/terp-raptor/terp-raptor.html
 	COOL
 
+XHab(?) proposal 
+- Lightweight LSS
+
 TRAVELS
 
 Biobot Human factors
