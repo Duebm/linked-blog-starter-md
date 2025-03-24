@@ -17,7 +17,7 @@ TerpRaptor- SSL Cubesat, 7 grads working on it rn
 	COOL
 
 XHab(?) proposal 
-- Lightweight LSS
+- Lightweight PLSS
 
 TRAVELS
 
