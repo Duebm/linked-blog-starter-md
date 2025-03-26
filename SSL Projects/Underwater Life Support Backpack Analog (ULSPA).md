@@ -2,4 +2,7 @@
 
 [[Jacob's contract]]
 
-Make a interta 
+New specifications:
+
+Set dimensions
+Specific CoG
