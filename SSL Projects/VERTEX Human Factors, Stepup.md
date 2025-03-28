@@ -5,7 +5,8 @@ V1: non motorized, not moving
 https://sendcutsend.com/guidelines/bending/
 
 - Height is 10 in from ground when BIOBOT is at lowest position
-- 
+- 6 in down from bottom
+- 5 into 
 
 
 
