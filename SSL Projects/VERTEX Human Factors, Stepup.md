@@ -1,6 +1,16 @@
 
 [[SSL Active projects, Compiled Timelines]]
 
+V1: non motorized, not moving
+https://sendcutsend.com/guidelines/bending/
+
+- Height is 10 in from ground when BIOBOT is at lowest position
+- 
+
+
+
+
+
 1. Make a non-motorized version, welded, with holes to mount a motor and reasonable upgradability
 2. CAD a motorized version and put it in the SSL CAD database
 https://sendcutsend.com/guidelines/bending/
