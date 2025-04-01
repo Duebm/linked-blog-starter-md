@@ -74,7 +74,7 @@ D^2 -2D +2
 
 L(e^2it) = (-2-4i)e^2it
 L(-1/(2+4i) e^2it) = e^2it
-L(Re()
+
 
 
 ### - undetermined coeff
