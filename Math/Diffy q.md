@@ -19,7 +19,9 @@ Exam 2
 Generalize the thang: v'' - 6v' +9v = 4e^3t
 z^2 - 6z + 9 = (z-3)^2
 
-Blueprint: 
+Blueprint: y(t)=c1y1(t)+c2y2(t)
+
+
 
 
 - Green function
