@@ -29,6 +29,12 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
 #### - Variation of parameters
 
+x^2 y'' - 6xy' + 10y = x^6 cos2x
+
+Given homogenuous solutions x^2 and x^5
+
+x^2 u1' + x^5 u2' = 0
+
 
 #### - La place transforms 
 #### - key identdy method
