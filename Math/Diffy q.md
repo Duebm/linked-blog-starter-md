@@ -21,7 +21,9 @@ z^2 - 6z + 9 = (z-3)^2
 
 Blueprint: y(t)=c1y1(t)+c2y2(t)
 
+(z-3)^2 is a "repeated root"- so we add a "t" in front of c2
 
+y(t)= c1 e^3t + c2 t e^3t
 
-
+Take the derivitive o
 - Green function
