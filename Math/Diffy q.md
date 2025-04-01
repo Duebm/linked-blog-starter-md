@@ -29,6 +29,8 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
 - Take the general version of the homogenous sde, then add the "partiular "solution for the right side of equ.
 	- Undetermined coeff
+		- Guesswork
+		- Hard when the forcing is fucked (cos or sin or i)
 	- Key identidy
 	- Variation of paremetiers 
 		- Varitation of parameters usable always 
@@ -49,17 +51,6 @@ x^2 u1' + x^5 u2' = 0
 - Integrate to get u1 and u2
 
 
-#### - La place transforms 
-
-y'' + 4y' - 21y = 0
-y(0) = 2, y'(0) = 3
-
-- Remove the higher order using the equations u had on quiz
-
-- Do the laplace based off of formulas on formula sheet
-
-- Do the inverse la place 
-	- NEED TO KNOW PARTIAL FRACTIONS
 
 #### - key identdy method
 - CONSTANT COEFF
@@ -78,11 +69,6 @@ L(e^2it) = (-2-4i)e^2it
 L(-1/(2+4i) e^2it) = e^2it
 L(Re()
 
-
-
-### - varible coeff
-
-- Variation of paremtiers 
 
 ### - undetermined coeff
 
@@ -105,6 +91,17 @@ A x e^2x
 
 (xe^2x) = (2x+1) e ^2x
 
+#### - La place transforms 
+
+y'' + 4y' - 21y = 0
+y(0) = 2, y'(0) = 3
+
+- Remove the higher order using the equations u had on quiz
+
+- Do the laplace based off of formulas on formula sheet
+
+- Do the inverse la place 
+	- NEED TO KNOW PARTIAL FRACTIONS
 
 ### - piecewise forcing
 
