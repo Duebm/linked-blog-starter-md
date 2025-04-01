@@ -28,8 +28,11 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 ####  - Wronskian hehe
 
 #### - Variation of parameters
+
+
 #### - La place transforms 
 #### - key identdy method
+- CONSTANT COEFF
 
 y''-2y'+2y = 100 cos2t
 z^2 - 2z +2 = 0
@@ -39,7 +42,11 @@ z= 1 plus or minus i
 
 D^2 -2D +2
 
+(-2-4i) is from plugging in the characteristic into the D equation
+
 L(e^2it) = (-2-4i)e^2it
+L(-1/(2+4i) e^2it) = e^2it
+L(Re()
 
 ### - non-homogenion
 
