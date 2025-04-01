@@ -34,9 +34,22 @@ x^2 y'' - 6xy' + 10y = x^6 cos2x
 Given homogenuous solutions x^2 and x^5
 
 x^2 u1' + x^5 u2' = 0
+- Set equal to forcing term
+- Solve for u1' and u2' 
+- Integrate to get u1 and u2
 
 
 #### - La place transforms 
+
+y'' + 4y' - 21y = 0
+y(0) = 2, y'(0) = 3
+
+- Remove the higher order using the equations u had on quiz
+
+- Do the laplace 
+
+- NEED TO KNOW PARTIAL FRACTIONS
+
 #### - key identdy method
 - CONSTANT COEFF
 
