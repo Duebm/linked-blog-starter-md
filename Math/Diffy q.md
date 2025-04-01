@@ -105,7 +105,9 @@ y(0) = 2, y'(0) = 3
 
 - Do the laplace based off of formulas on formula sheet
 
-- Do the inverse la place 
+- Do the laplace of the forcing
+- Simplfiy
+- Do the inverse laplace 
 	- NEED TO KNOW PARTIAL FRACTIONS
 
 ### - piecewise forcing
