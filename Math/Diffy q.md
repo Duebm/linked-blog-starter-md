@@ -37,6 +37,8 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
 - These three give just the pariticuar sol., you still need to solve for the homogenous sol.
 
+- Simply add the particular sol. found by these three methods to the homogenous soutions found 
+
 ####  - Wronskian hehe
 
 Wr (y1,y2) (t) = det [y1(t) y2(t)
