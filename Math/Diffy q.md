@@ -39,6 +39,8 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
 ####  - Wronskian hehe
 
+
+
 #### - Variation of parameters
 
 x^2 y'' - 6xy' + 10y = x^6 cos2x
