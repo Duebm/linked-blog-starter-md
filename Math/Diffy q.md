@@ -31,6 +31,8 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 #### - La place transforms 
 #### - key identdy method
 ### - non-homogenion
+
+- Take the general 
 ### - varible coeff
 
 ### - undetermined coeff
