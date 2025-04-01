@@ -39,7 +39,7 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
 ####  - Wronskian hehe
 
-
+Wr (y1,y2) (t) = det []
 
 #### - Variation of parameters
 
