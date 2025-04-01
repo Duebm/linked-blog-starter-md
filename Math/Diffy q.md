@@ -30,9 +30,28 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 #### - Variation of parameters
 #### - La place transforms 
 #### - key identdy method
+
+y''-2y'+2y = 100 cos2t
+z^2 - 2z +2 = 0
+z= 1 plus or minus i
+
+"chasteristic" =2i for this
+
+D^2 -2D +2
+
+L(e^2it) = (-2-4i)e^2it
+
 ### - non-homogenion
 
-- Take the general 
+- Take the general version of the homogenous sde, then add the "partiular "solution for the right side of equ.
+	- Do by Guessing
+	- Key identidy
+	- Variation of paremetiers 
+
+y''-2y'+2y = 100 cos2t
+z^2 - 2z +2 = 0
+z= 1 plus or minus i
+
 ### - varible coeff
 
 ### - undetermined coeff
