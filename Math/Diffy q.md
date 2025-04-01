@@ -46,9 +46,10 @@ y(0) = 2, y'(0) = 3
 
 - Remove the higher order using the equations u had on quiz
 
-- Do the laplace 
+- Do the laplace based off of formulas on formula sheet
 
-- NEED TO KNOW PARTIAL FRACTIONS
+- Do the inverse la place 
+	- NEED TO KNOW PARTIAL FRACTIONS
 
 #### - key identdy method
 - CONSTANT COEFF
@@ -82,6 +83,7 @@ z= 1 plus or minus i
 
 ### - undetermined coeff
 
+### - piecewise forcing
 
 
 - Green function
