@@ -31,6 +31,7 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 	- Undetermined coeff
 	- Key identidy
 	- Variation of paremetiers 
+		- Varitation of parameters usable always 
 
 - These three give just the pariticuar sol., you still need to solve for the homogenous sol.
 
@@ -81,6 +82,8 @@ L(Re()
 
 ### - varible coeff
 
+- Variation of paremtiers 
+
 ### - undetermined coeff
 
 w'' - 4w' +5w = e^2x
@@ -98,7 +101,11 @@ w'' - 4w = e^2x
 
 c1 e^2x + c2 e^-2x
 
+A x e^2x
+
+(xe^2x) = (2x+1) e ^2x
+
+
 ### - piecewise forcing
 
 
-- Green function
