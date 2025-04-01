@@ -25,6 +25,14 @@ y(t)= c1 e^3t + c2 t e^3t
 Take the derivative of this to get a second eq., then solve for c1 and c2 
 y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
+### - non-homogenion
+
+- Take the general version of the homogenous sde, then add the "partiular "solution for the right side of equ.
+	- Undetermined coeff
+	- Key identidy
+	- Variation of paremetiers 
+
+
 ####  - Wronskian hehe
 
 #### - Variation of parameters
@@ -68,20 +76,15 @@ L(e^2it) = (-2-4i)e^2it
 L(-1/(2+4i) e^2it) = e^2it
 L(Re()
 
-### - non-homogenion
 
-- Take the general version of the homogenous sde, then add the "partiular "solution for the right side of equ.
-	- Do by Guessing
-	- Key identidy
-	- Variation of paremetiers 
-
-y''-2y'+2y = 100 cos2t
-z^2 - 2z +2 = 0
-z= 1 plus or minus i
 
 ### - varible coeff
 
 ### - undetermined coeff
+
+w'' - 4w' +5w = e^2x
+- Chasteristic sol.
+
 
 ### - piecewise forcing
 
