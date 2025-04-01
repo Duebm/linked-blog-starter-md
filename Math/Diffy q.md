@@ -37,7 +37,7 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 
 - These three give just the pariticuar sol., you still need to solve for the homogenous sol.
 
-- Simply add the particular sol. found by these three methods to the homogenous soutions found 
+- Simply add the particular sol. found by these three methods to the homogenous equation, THEN and only then solve for c1 and c2
 
 ####  - Wronskian hehe
 
