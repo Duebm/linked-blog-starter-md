@@ -30,6 +30,8 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 #### - Variation of parameters
 #### - La place transforms 
 #### - key identdy method
+### - non-homogenion
+### - varible coeff
 
 ### - undetermined coeff
 
