@@ -42,7 +42,7 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 Wr (y1,y2) (t) = det [y1(t) y2(t)
                 y1'(t) y2'(t)]
 
-- If Wr = 0, 
+- If Wr does not = 0, then it is a fundamental set of solutions 
 
 #### - Variation of parameters
 
