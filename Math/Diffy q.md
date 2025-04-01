@@ -32,6 +32,7 @@ y'(t)= 3 c1 e^3t + 3t c2 e^3t
 	- Key identidy
 	- Variation of paremetiers 
 
+- These three give just the pariticuar sol., you still need to solve for the homogenous sol.
 
 ####  - Wronskian hehe
 
@@ -83,8 +84,19 @@ L(Re()
 ### - undetermined coeff
 
 w'' - 4w' +5w = e^2x
-- Chasteristic sol.
+- Guess a solution based off of the forcing 
+Guess: Ae^2x is a sol.
 
+(4A - 8A + 5A)e^2x = e^2x
+
+A = 1
+
+ex) 
+
+w'' - 4w = e^2x
+ p^2 - 4 = 0 
+
+c1 e^2x + c2 e^-2x
 
 ### - piecewise forcing
 
