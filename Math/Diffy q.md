@@ -114,4 +114,7 @@ y(0) = 2, y'(0) = 3
 
 ### - piecewise forcing
 
-
+1. La place the left side
+2. Laplace the right side 
+	1.  = function1 + u(t-lowerbound)(function2-function1) + ...
+	2. laplace tat be 
