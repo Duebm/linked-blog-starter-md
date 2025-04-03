@@ -9,6 +9,17 @@ https://sendcutsend.com/guidelines/bending/
 - 5 into 
 
 
+## Vertex Improved Step for Accessibility (VISA)
+
+- 6527K614 Mcmaster for intial into trailer hitch
+- Comes out into a platform for another step, triangle supports out to it 
+	- (6x6? 6x5?)
+- Member coming straight down (~6 in down, 10in off ground from resting postion)
+	- Need to measure off of new 0 postision in ROS2 version
+- 
+
+
+
 
 
 
