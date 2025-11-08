@@ -9,11 +9,15 @@ filename = '025.csv';
 
 % Read as table for easy column access
 
-T = readtable(filename);
+rawLines = readlines(filename);
 
-print (T)
+splitData = split(rawLines, ",");
 
-% % Extract relevant fields
+T = array2table(splitData);
+
+head(T,10)
+
+% Extract relevant fields
 
 % time = T.Time_s_; % seconds since launch
 
